@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.3.4",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.14",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.2",
     "axios": "^1.6.8",
